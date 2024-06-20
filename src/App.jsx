@@ -13,7 +13,7 @@ function App() {
   
 
 
-
+/* Fijarse cuando retome esto */
   return <>
   <Hola/>
     <hr/>
