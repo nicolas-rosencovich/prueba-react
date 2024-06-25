@@ -45,3 +45,11 @@
   color: white;
 }
 
+
+
+.componentAfueraDiv{
+  background-color: white;
+  color: black;
+  border: 5px solid blue;
+  border-bottom: 30px;
+}

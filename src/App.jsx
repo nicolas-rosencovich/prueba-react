@@ -1,9 +1,10 @@
-import { useState } from 'react'
+import { useState } from 'React'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import Hola from './components/Hola';
-import { HolaMundo } from './components/HolaMundo';
+import Hola from './components/Hola.jsx';
+import HolaMundo  from './components/HolaMundo.jsx';
+
 
 
 
@@ -13,14 +14,18 @@ function App() {
   
 
 
-/* Fijarse cuando retome esto */
   return <>
-  <Hola/>
-    <hr/>
-<div className='container'>
+
+<Hola/>
+<hr />
 <HolaMundo/>
-</div>
- 
+<hr/>
+
+
+
+
+
+
 
 
    </> 
