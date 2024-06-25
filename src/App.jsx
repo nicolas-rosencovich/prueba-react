@@ -9,18 +9,22 @@ import { HolaMundo } from './components/HolaMundo';
 
 
 
+
 function App() {
   
 
 
-/* Fijarse cuando retome esto */
   return <>
-  <Hola/>
-    <hr/>
+
 <div className='container'>
 <HolaMundo/>
+<hr/>
+<Hola/>
+
+
+
 </div>
- 
+
 
 
    </> 

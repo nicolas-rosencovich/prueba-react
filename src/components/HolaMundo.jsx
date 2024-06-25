@@ -1,5 +1,5 @@
 export function HolaMundo(){
-    return "Hola, esto es una función exportada sin nada.";
+    return "Hola, esto es una fn exportada sin nada.";
 }
 
  
